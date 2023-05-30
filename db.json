@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "dob": "1990-01-01T00:00:00.000Z",
+      "gender": "male",
+      "company": "Acme Inc.",
+      "experience": "5",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "dob": "1990-01-01T00:00:00.000Z",
+      "gender": "male",
+      "company": "Acme Inc.",
+      "experience": "5",
+      "id": 2
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "janedoe@gmail.com",
+      "dob": "1995-02-15T00:00:00.000Z",
+      "gender": "female",
+      "company": "ABC Corporation",
+      "experience": "3",
+      "id": 3
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bobsmith@gmail.com",
+      "dob": "1985-03-30T00:00:00.000Z",
+      "gender": "male",
+      "company": "XYZ Enterprises",
+      "experience": "10",
+      "id": 4
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alicejohnson@gmail.com",
+      "dob": "1998-05-10T00:00:00.000Z",
+      "gender": "female",
+      "company": "PQR Inc.",
+      "experience": "1",
+      "id": 5
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Williams",
+      "email": "tomwilliams@gmail.com",
+      "dob": "1980-12-31T00:00:00.000Z",
+      "gender": "male",
+      "company": "LMN Corporation",
+      "experience": "15",
+      "id": 6
+    },
+    {
+      "firstName": "Samantha",
+      "lastName": "Jones",
+      "email": "samanthajones@gmail.com",
+      "dob": "1993-08-20T00:00:00.000Z",
+      "gender": "female",
+      "company": "QRS Enterprises",
+      "experience": "2",
+      "id": 7
+    },
+    {
+      "firstName": "David",
+      "lastName": "Lee",
+      "email": "davidlee@gmail.com",
+      "dob": "1989-04-05T00:00:00.000Z",
+      "gender": "male",
+      "company": "UVW Corporation",
+      "experience": "8",
+      "id": 8
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emilybrown@gmail.com",
+      "dob": "1996-07-15T00:00:00.000Z",
+      "gender": "female",
+      "company": "DEF Inc.",
+      "experience": "4",
+      "id": 9
+    },
+    {
+      "firstName": "Pratham",
+      "lastName": "Sharma",
+      "email": "prathamsharma@gmail.com",
+      "dob": "2023-02-28T18:30:00.000Z",
+      "gender": "male",
+      "company": "Nagarro",
+      "experience": "1",
+      "id": 10
+    },
+    {
+      "firstName": "Yuvraj",
+      "lastName": "Bhardwaj",
+      "email": "yuvraj@gmail.com",
+      "dob": "2023-01-04T18:30:00.000Z",
+      "gender": "male",
+      "company": "Idemia",
+      "experience": "1",
+      "id": 11
+    }
+  ]
+}
